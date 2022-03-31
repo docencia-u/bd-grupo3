@@ -14,28 +14,28 @@
     <tbody>
         <tr>
             <td>MAYKOL</td>
-            <td>LABARCA ORELLANA</td>
+            <td>LABARCA&nbsp;ORELLANA</td>
             <td>m.labarcaorellana@uandresbello.edu</td>
             <td>3</td>
             <td>6</td>
         </tr>
         <tr>
             <td>BASTIÁN</td>
-            <td>MONSÁLVEZ SANTANDER</td>
+            <td>MONSÁLVEZ&nbsp;SANTANDER</td>
             <td>b.monslvezsantander@uandresbello.edu</td>
             <td>3</td>
             <td>6</td>
         </tr>
         <tr>
             <td>MATIAS</td>
-            <td>SILVA MALDONADO</td>
+            <td>SILVA&nbsp;MALDONADO</td>
             <td>m.silvamaldonado@uandresbello.edu</td>
             <td>3</td>
             <td>6</td>
         </tr>
         <tr>
             <td>DAVID</td>
-            <td>URETA IRRIBARRA</td>
+            <td>URETA&nbsp;IRRIBARRA</td>
             <td>d.uretairribarra@uandresbello.edu</td>
             <td>3</td>
             <td>6</td>
