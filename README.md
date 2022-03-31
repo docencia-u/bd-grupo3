@@ -4,7 +4,6 @@
 <table>
     <thead>
         <tr>
-            <th>Usuario</th>
             <th>Nombre</th>
             <th>Apellidos</th>
             <th>Email</th>
@@ -14,7 +13,6 @@
     </thead>
     <tbody>
         <tr>
-            <td>m.labarcaorellana</td>
             <td>MAYKOL</td>
             <td>LABARCA ORELLANA</td>
             <td>m.labarcaorellana@uandresbello.edu</td>
@@ -22,7 +20,6 @@
             <td>6</td>
         </tr>
         <tr>
-            <td>b.monslvezsantander</td>
             <td>BASTIÁN</td>
             <td>MONSÁLVEZ SANTANDER</td>
             <td>b.monslvezsantander@uandresbello.edu</td>
@@ -30,7 +27,6 @@
             <td>6</td>
         </tr>
         <tr>
-            <td>m.silvamaldonado</td>
             <td>MATIAS</td>
             <td>SILVA MALDONADO</td>
             <td>m.silvamaldonado@uandresbello.edu</td>
@@ -38,7 +34,6 @@
             <td>6</td>
         </tr>
         <tr>
-            <td>d.uretairribarra</td>
             <td>DAVID</td>
             <td>URETA IRRIBARRA</td>
             <td>d.uretairribarra@uandresbello.edu</td>
