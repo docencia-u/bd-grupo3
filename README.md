@@ -40,5 +40,12 @@
             <td>3</td>
             <td>6</td>
         </tr>
+        <tr>
+            <td>PABLO</td>
+            <td>FARÍAS</td>
+            <td>.....@uandresbello.edu</td>
+            <td>3</td>
+            <td>6</td>
+        </tr>
     </tbody>
 </table>
